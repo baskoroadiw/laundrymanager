@@ -1,2 +1,2 @@
 # laundrymanager
-Aplikasi Laundry Manager (Java Netbeans)
+Aplikasi Laundry Manager Java Netbeans (Tubes PBO Semester 2)
